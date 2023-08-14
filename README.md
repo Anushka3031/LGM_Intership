@@ -1,7 +1,7 @@
 # LGM_Intership
 
 ## BEGINNER LEVEL TASK:
-1)Iris Flowers Classification /n
+1)Iris Flowers Classification 
 2)Stock Market Prediction And Forecasting Using Stacked LSTM
 3)Music Recommendation
 4)Image to Pencil Sketch with Python
